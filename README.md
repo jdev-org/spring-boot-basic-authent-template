@@ -30,8 +30,9 @@ Change these values from `application.properties` file.
 
 Try request from CURL command or Postman Client : 
 
-GET - localhost:8094/hello
-POST - localhost:8094/foo
+* GET - localhost:8094/hello
+
+* POST - localhost:8094/foo
 
 With Postman, add basic authent informations in Authorization tab :
 
